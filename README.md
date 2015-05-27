@@ -33,6 +33,7 @@ footer.html
 <footer>Page Footer</footer>
 ```
 
+Running...
 ```bash
 ./tempatecat header@header.html footer@footer.html < index.html.template > index.html
 ```
